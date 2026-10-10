@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"difo/internal/difo"
+	"github.com/betillogalvanfbc/difo/internal/difo"
 )
 
 const version = "1.0.0"
